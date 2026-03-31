@@ -1,0 +1,11 @@
+Cybercrime Type: Phishing
+
+Phishing is a widespread cybercrime technique in which attackers attempt to obtain sensitive information such as usernames, passwords, bank account details, and One Time Passwords (OTPs) by pretending to be a legitimate and trustworthy entity. These attacks are usually carried out through emails, SMS messages, phone calls, or fake websites that closely resemble official platforms like banks, payment apps, or government services.
+
+A typical phishing attack follows a structured process. First, the attacker sends a message creating a sense of urgency or fear, such as claiming that the user’s bank account will be blocked or that their KYC verification is pending. The message includes a malicious link that redirects the victim to a fake website designed to look identical to the original. Once the victim enters their login credentials or financial details, the attacker captures this information. In many cases, the attacker also tricks the user into sharing an OTP, which is then used to complete unauthorized transactions instantly.
+
+A real life example of phishing occurred in India where several individuals received SMS messages claiming to be from their bank, requesting them to update their KYC details to avoid account suspension. One college student clicked on the link provided in the message and was redirected to a fake banking website. Believing it to be genuine, the student entered their account details and OTP. Within minutes, money was transferred from their account without their consent. Despite reporting the incident later, the financial loss could not be fully recovered.
+
+Students and young adults are particularly vulnerable to such attacks due to their high dependence on digital platforms and limited awareness of cyber threats. The consequences of phishing can be severe, including financial loss, identity theft, unauthorized access to personal accounts, and misuse of sensitive data.
+
+This case study highlights the importance of digital awareness and cautious online behavior. Users should always verify the authenticity of messages, avoid clicking on suspicious links, and never share confidential information such as passwords or OTPs. Understanding how phishing works is the first step toward preventing such cybercrimes and ensuring safe digital practices.
